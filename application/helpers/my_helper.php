@@ -4,7 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * my_helper.php
  * @author Murosadatul Mahmud <murosadatul@gmail.com>
  * @access public
- * @link https://github.com/mycodeigniter/application/helpers/
+ * @link https://github.com/murosadatul/my_codeigniter/application/helpers/
  */
 	// load file javascript
 	function my_js($url){return '<script src="'.base_url().'assets/js/'.$url.'"></script>';}
